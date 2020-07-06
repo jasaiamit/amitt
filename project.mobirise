@@ -42,25 +42,7 @@
     ],
     "uniqCompNum": 3,
     "versionPublish": "4.12.4",
-    "imageResize": true,
-    "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "sitemapSwitcher": true,
-    "siteUrl": "https://amitt.in",
-    "sitemapSwitcherAuto": "on",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-171662816-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-171662816-1');\n</script>",
-    "favicon": "@PROJECT_PATH@/assets/images/apple-touch-icon-128x128.png",
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#62039f",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "publishType": "github",
-    "gitHubName": "amitt",
-    "gitHubPath": "jasaniamit",
-    "screenshot": "screenshot.png",
-    "cookiesAlert": false
+    "imageResize": true
   },
   "pages": {
     "index.html": {
