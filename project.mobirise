@@ -62,7 +62,6 @@
     "gitHubPath": "jasaniamit",
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "publishChangesOnly": true
     "publishChangesOnly": false
   },
   "pages": {
