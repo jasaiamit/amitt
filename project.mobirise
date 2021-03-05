@@ -50,7 +50,7 @@
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-171662816-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-171662816-1');\n</script>",
-    "favicon": "@PROJECT_PATH@/assets/images/a-amitt-03-128x159.png",
+    "favicon": "@PROJECT_PATH@/assets/images/a-logo-ukfont-colour-01-128x108_1.png",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#62039f",
@@ -61,7 +61,8 @@
     "gitHubName": "amitt",
     "gitHubPath": "jasaniamit",
     "screenshot": "screenshot.png",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
